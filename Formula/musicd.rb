@@ -3,8 +3,8 @@ class Musicd < Formula
 
   desc "Terminal-native music player daemon powered by mpv and yt-dlp"
   homepage "https://github.com/Ykarakoti77/musicd"
-  url "https://github.com/Ykarakoti77/musicd/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "1cf847421644201ebc54a27be7c731ce6739b7543b38510787fa68cbb4a3320c"
+  url "https://github.com/Ykarakoti77/musicd/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "885cded8d1c2c24eac2d62e8eb815e2a327117dbddc028f561f2f4a3818bba77"
   license "MIT"
 
   depends_on "mpv"
